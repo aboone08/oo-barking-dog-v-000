@@ -1,9 +1,14 @@
 # Your code goes here!
 class Dog 
+  def initialize (name)
+    @name = name 
+  end 
+  def name
+    @name
+  end 
   def bark
     puts "woof!"
   end 
 end 
 
-kingsley = Dog.new 
-kingsley.name = "Kingsley"
+kingsley = Dog.new

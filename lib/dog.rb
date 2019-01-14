@@ -10,3 +10,6 @@ class Dog
     puts "woof!"
   end 
 end 
+
+kingsley = Dog.new 
+Kingsley.name = "Kingsley"

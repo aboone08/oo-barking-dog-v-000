@@ -10,11 +10,7 @@ class Dog
   def bark
     puts "woof!"
   end 
-  def name=(new_Dog)
-    @name = new_Dog
-  end
 end 
 
-kingsley = Dog.new 
 kingsley.name = "Kingsley"
 kingsley.bark

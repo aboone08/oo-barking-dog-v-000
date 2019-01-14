@@ -16,4 +16,5 @@ end
 
 kingsley = Dog.new 
 kingsley.name = "Kingsley"
+kingsley.name
 kingsley.bark

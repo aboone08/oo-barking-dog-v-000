@@ -16,3 +16,6 @@ class Dog
 end 
 
 
+kingsley = Dog.new
+kingsley.name = "kingsley"
+kingsley.bark

@@ -12,3 +12,4 @@ class Dog
 end 
 
 kingsley = Dog.name
+kingsley.bark

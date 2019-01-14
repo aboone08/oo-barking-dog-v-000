@@ -9,5 +9,4 @@ class Dog
   end 
 end 
 
-kingsley.name = "Kingsley"
 kingsley.bark
